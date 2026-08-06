@@ -1,0 +1,48 @@
+{
+  "medias": [
+    {
+      "id": "9fcd",
+      "type": "Film",
+      "titre": "The Conjuring: Last Rites",
+      "annee": "2025",
+      "realisateur": "Michael Chaves",
+      "genre": "Horror/Thriller/Religion"
+    },
+    {
+      "id": "1886",
+      "type": "Film",
+      "titre": "Weapons",
+      "annee": "2025",
+      "realisateur": "Zach Cregger",
+      "genre": "Mystery/Horror"
+    },
+    {
+      "id": "047a",
+      "type": "Film",
+      "titre": "Final Destination Bloodlines",
+      "annee": "2025",
+      "realisateur": "Zack Lipozsky & Adam Stein",
+      "genre": "Horror/Thriller/Drama"
+    },
+    {
+      "id": "8724",
+      "type": "Serie",
+      "titre": "Stranger Things",
+      "annee": "N/A",
+      "saisons": "5",
+      "episodes": "42",
+      "createur": "The Duffer Brothers",
+      "genre": "Horror/Sci-Fi/Thriller/Mystery"
+    },
+    {
+      "id": "f5cf",
+      "type": "Serie",
+      "titre": "The Upshaws",
+      "annee": "N/A",
+      "saisons": "6",
+      "episodes": "48",
+      "createur": "Regina Y. Hicks & Wanda Sykes",
+      "genre": "Sitcom"
+    }
+  ]
+}

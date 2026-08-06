@@ -1,0 +1,77 @@
+/* App.css */
+
+body {
+  background: linear-gradient(135deg, #74b9ff, #a29bfe);
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+fieldset {
+  background-color: white;
+  border: 3px solid #6c5ce7;
+  border-radius: 12px;
+  padding: 30px;
+  width: 420px;
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+}
+
+fieldset:hover {
+  transform: scale(1.02);
+}
+
+legend {
+  font-size: 1.6em;
+  font-weight: bold;
+  color: #341f97;
+  text-align: center;
+}
+
+h1 {
+  font-size: 1.2em;
+  margin: 10px 0;
+  color: #2d3436;
+}
+
+table {
+  width: 100%;
+  margin: 10px 0;
+}
+
+button {
+  background-color: #6c5ce7;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 12px;
+  cursor: pointer;
+  font-size: 1em;
+  transition: all 0.3s ease;
+}
+
+button:hover:not(:disabled) {
+  background-color: #341f97;
+  transform: scale(1.05);
+}
+
+button:disabled {
+  background-color: #dfe6e9;
+  color: #636e72;
+  cursor: not-allowed;
+}
+
+.width100 {
+  width: 100%;
+}
+
+h1 b {
+  color: #0984e3;
+}
+
+.center {
+  text-align: center;
+}

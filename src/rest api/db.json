@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "962c",
+      "author": "n",
+      "title": "kkl''"
+    },
+    {
+      "id": "6ed8"
+    },
+    {
+      "id": "24e9"
+    },
+    {
+      "id": "dfa9"
+    },
+    {
+      "id": "ce06"
+    },
+    {
+      "id": "31e1"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
